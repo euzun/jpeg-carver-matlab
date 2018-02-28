@@ -1,4 +1,4 @@
-# jpeg_carver_matlab
+# jpeg-carver-matlab
 
 * This repo includes matlab toolbox for the orphaned jpeg fragment recovery method presented in following paper.
 * This is a pure Matlab implemented code.
